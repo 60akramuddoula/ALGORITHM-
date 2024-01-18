@@ -1,0 +1,1 @@
+height of the node 1 is 2

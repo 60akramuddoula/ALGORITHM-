@@ -1,0 +1,6 @@
+visiting Node 1
+visiting Node 2
+visiting Node 3
+visiting Node 5
+visiting Node 4
+Number of connected components is 1 
